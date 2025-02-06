@@ -3,16 +3,12 @@
      Daniel | Frontend Dev | 14 y.o. | Russia
   </h1>
 
-![divider](https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/divider.png)
-
-![divider](https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/divider.png)
-
 <div align="center" style="background: #0D1117; border: 3px solid #FF0000; border-radius: 15px; padding: 20px;">
   <img src="https://komarev.com/ghpvc/?username=kripo4ek&style=flat-square&color=red" alt="Profile views"/>
   
   <!-- Технологии -->
   <h2>Tech Stack</h2>
-  <img src="https://skillicons.dev/icons?i=js,ts,c++,nodejs,html,css,git,github,vscode" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,ps,pr,ubuntu,nodejs,html,css,git,github,vscode" alt="tech stack"/>
   
   <h2>📈 GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=kripo4ek&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&border_color=FF0000" alt="stats"/>
@@ -25,6 +21,10 @@
       <td><img src="https://img.shields.io/badge/NVIDIA-RTX_3060-FF0000?style=flat&logo=nvidia"/></td>
       <td><img src="https://img.shields.io/badge/RAM-32GB-FF0000?style=flat"/></td>
     </tr>
+     <tr>
+      <td><img src="https://img.shields.io/badge/PSU-650W-FF0000?style=flat&logoColor=white"/></td>
+      <td><img src="https://img.shields.io/badge/ROM-1.5TB-FF0000?style=flat&logo=storage&logoColor=white"/></td>
+    </tr>
   </table>
   
   <h2>Contacts</h2>
@@ -36,6 +36,9 @@
   </a>
   <a href="https://discord.com/users/kripo4ek" target="_blank">
     <img src="https://img.shields.io/badge/Discord-FF0000?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://music.yandex.ru/users/zyuzindaniil/playlists/3?utm_medium=copy_link" target="_blank">
+    <img src="https://img.shields.io/badge/Yandex_Music-FF0000?style=for-the-badge&logo=yandex&logoColor=white"/>
   </a>
 </div>
 
