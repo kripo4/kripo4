@@ -8,7 +8,7 @@
   
   <!-- Технологии -->
   <h2>Tech Stack</h2>
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,ps,pr,ubuntu,nodejs,html,css,git,github,vscode" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=js,ps,pr,ubuntu,nodejs,html,css,git,github,vscode" alt="tech stack"/>
   
   <h2>📈 GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=kripo4ek&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&border_color=FF0000" alt="stats"/>
