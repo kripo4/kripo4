@@ -18,7 +18,7 @@
   <table align="center">
     <tr>
       <td><img src="https://img.shields.io/badge/AMD-Ryzen_5_5600-FF0000?style=flat&logo=amd"/></td>
-      <td><img src="https://img.shields.io/badge/NVIDIA-RTX_3060-FF0000?style=flat&logo=nvidia"/></td>
+      <td><img src="https://img.shields.io/badge/AMD-RX_6600-FF0000?style=flat&logo=radeon"/></td>
       <td><img src="https://img.shields.io/badge/RAM-32GB-FF0000?style=flat"/></td>
     </tr>
      <tr>
