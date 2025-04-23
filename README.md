@@ -2,6 +2,7 @@
   <h1 style="color: #FFFFFF; font-family: 'Segoe UI', sans-serif; margin-bottom: 20px;">
      Daniel | Frontend Dev | 14 y.o. | Russia
   </h1>
+  <h2>Привет, я Даня, я прям начинающий фронтендер, знаю только базу html и css, планирую в будущем изучить Vue.js и сам js, я толком ничего не умею и часто пользуюсь нейросетями, однако мои промпты помогают мне добиться того результата который и хотел, я не вайб кодер, в отличии от вайб кодера я умею читать код и часто сам исправляю ошибка которые делают нейросети, у меня есть свой сайт http://des.exitedmoon.space, мне также нравится работа с vps и вообще с компами, кстати у самого стоит fedora work 41, терминал: hyper, за лето 2025 хочу заработать на ThinkPad, сделать огромный проект для портфолио самостоятельно, а также выучить японский на N5 :)</h2>
 
 <div align="center" style="background: #0D1117; border: 3px solid #FF0000; border-radius: 15px; padding: 20px;">
   <img src="https://komarev.com/ghpvc/?username=kripo4ek&style=flat-square&color=red" alt="Profile views"/>
